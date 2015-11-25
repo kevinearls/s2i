@@ -19,3 +19,4 @@ The Karaf S2I Builder image is used for creating S2I builds for
 remove this line
 blah
 blah
+blah
