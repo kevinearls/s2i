@@ -18,3 +18,4 @@ The Karaf S2I Builder image is used for creating S2I builds for
 [Karaf](http://karaf.apache.org/) based applications.
 remove this line
 blah
+blah
